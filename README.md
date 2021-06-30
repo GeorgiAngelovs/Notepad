@@ -1,2 +1,2 @@
 # Notepad
-Create notepad/Java
+Create notepad trying to use all OOP principals
