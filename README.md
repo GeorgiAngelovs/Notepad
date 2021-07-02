@@ -8,7 +8,7 @@
 >
 >class Page {
 >
->SimpleNotepad implements Notepad {
+>class SimpleNotepad implements Notepad {
 >
->SecuredNotepad extends SimpleNotepad {
+>class SecuredNotepad extends SimpleNotepad {
 >
