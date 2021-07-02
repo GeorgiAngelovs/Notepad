@@ -1,5 +1,4 @@
-# Notepad
-Create a Notepad trying to use all OOP principals
+# Create a Notepad trying to use all OOP principals
 
 interface ElectronicDevice {
 class ElectronicSecuredNotepad extends SecuredNotepad implements ElectronicDevice {
